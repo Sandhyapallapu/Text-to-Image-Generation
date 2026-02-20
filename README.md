@@ -1,7 +1,5 @@
 # Text-To-Image-Generator
 
-![image](https://github.com/AvishakeAdhikary/Text-To-Image-Generator/assets/32614982/1fa835b0-f8e0-4900-a696-57fea1196573)
-
 > This project uses the Stable Diffusion Pipeline to generate images from text prompts. The Stable Diffusion Pipeline is a machine learning model that uses a diffusion process to generate images from text prompts.
 > This is a simple GUI application for generating images based on user prompts using the StableDiffusionPipeline model from the diffusers module. The application allows users to enter a prompt, click a button to generate an image based on the prompt, and view the generated image in the GUI window.
 
